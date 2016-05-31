@@ -1,0 +1,4 @@
+CHANGED,D:\work\android\uW\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\xumengxi\uw\SecondActivity$2$override.class
+CHANGED,D:\work\android\uW\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\xumengxi\uw\SecondActivity$override.class
+CHANGED,D:\work\android\uW\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\xumengxi\uw\MainActivity$1$override.class
+CHANGED,D:\work\android\uW\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
